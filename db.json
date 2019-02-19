@@ -1,0 +1,23 @@
+{
+"products" :
+[{"id":1,"name":"Ramphastos tucanus","last_name":"Bolivia"},
+{"id":2,"name":"Phylurus milli","last_name":"Belarus"},
+{"id":3,"name":"Anhinga rufa","last_name":"Sweden"},
+{"id":4,"name":"Macaca fuscata","last_name":"Norway"},
+{"id":5,"name":"Crotalus cerastes","last_name":"China"},
+{"id":6,"name":"Uraeginthus granatina","last_name":"Czech Republic"},
+{"id":7,"name":"Alopex lagopus","last_name":"Philippines"},
+{"id":8,"name":"Felis chaus","last_name":"Indonesia"},
+{"id":9,"name":"Ctenophorus ornatus","last_name":"Colombia"},
+{"id":10,"name":"Alopochen aegyptiacus","last_name":"China"},
+{"id":11,"name":"unavailable","last_name":"Indonesia"},
+{"id":12,"name":"Cebus apella","last_name":"Venezuela"},
+{"id":13,"name":"Ramphastos tucanus","last_name":"Russia"},
+{"id":14,"name":"Platalea leucordia","last_name":"Japan"},
+{"id":15,"name":"Chelodina longicollis","last_name":"Philippines"},
+{"id":16,"name":"Phoca vitulina","last_name":"Mali"},
+{"id":17,"name":"Vulpes chama","last_name":"Greece"},
+{"id":18,"name":"Canis mesomelas","last_name":"United Kingdom"},
+{"id":19,"name":"Canis aureus","last_name":"China"},
+{"id":20,"name":"Larus dominicanus","last_name":"Croatia"}]
+}
